@@ -7,4 +7,5 @@
 - [Sushant Srivastav](https://github.com/conquerorsushant)
 - [Sambhav Gupta](https://github.com/sambhavgupta0705)
 - [Armaan Khan](https://github.com/AkP2809)
+- [Tanmoy Sengupta](https://github.com/TSG405)
 - <!-- prettier-ignore-end -->
