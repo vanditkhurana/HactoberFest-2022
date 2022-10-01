@@ -27,4 +27,13 @@ class Book(models.Model):
 class Student(models.Model):
     name = models.CharField(max_length=100)
     pass
-   
+
+class Contact(models.Model):
+    first_name = models.CharField()
+    last_name = models.CharField()
+    email = models.EmailField()
+    subject = models.CharField(max_length=255)
+    message = models.TextField()
+
+    def __str__(self):
+        return self.email
